@@ -1,9 +1,9 @@
 # calculating-next-injection
 If you get injections in regular or semi-regular intervals, this will do the calculation for you. (German)
 For non-German speakers, it basically says this:
-"When was your last injection? (Format: DD.MM.YYYY)"
-"How long is your interval (in weeks)?"
-"Your next injection is on (projected date)."
+- "When was your last injection? (Format: DD.MM.YYYY)"
+- "How long is your interval (in weeks)?"
+- "Your next injection is on (projected date)."
 
 -----
 I get injections in long intervals, so calculating when my next injection is due can become very tedious and prone to errors.
